@@ -1,8 +1,8 @@
-import React from 'react'
-import "./"
+import React from 'react';
+import './contact.scss';
 
 export default function Contact() {
   return (
-    <div>Contact</div> 
+    <div className='contact' id='contact'>Contact</div> 
   )
 }
